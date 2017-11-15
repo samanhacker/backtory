@@ -13,5 +13,5 @@
     "handlerName":"saman.ping",
     "timeLimitInMilliSeconds":1000,
     "authenticationMode": "AUTHENTICATED"
-  },
+  }
 }
