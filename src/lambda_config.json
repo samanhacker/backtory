@@ -8,5 +8,10 @@
     "handlerName": "test/index2.add",
     "timeLimitInMilliSeconds": 1000,
     "authenticationMode": "PUBLIC"
-  }
+  },
+  "Saman":{
+    "handlerName":"saman.ping",
+    "timeLimitInMilliSeconds":1000,
+    "authenticationMode": "AUTHENTICATED"
+  },
 }
